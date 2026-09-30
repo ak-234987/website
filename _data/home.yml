@@ -59,7 +59,7 @@ disciplines:
     title: Film
     lines: []
     image:
-      src: assets/images/homepage-film.jpg
+      src: assets/images/homepage-film-venice.jpg
       alt: John Myatt resting his arms on the polished roof of a boat in Venice
       shape: landscape-4-3
       mobile_shape: landscape-4-3

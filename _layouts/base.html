@@ -30,8 +30,8 @@ the goal (chrome exists in exactly one place) is met either way.
   <meta name="description" content="{{ head_desc | escape }}">
   <meta name="theme-color" content="#f4f4f4">
   <link rel="icon" href="{{ r }}assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="{{ r }}assets/css/styles.css">
-  <script src="{{ r }}assets/js/site.js" defer></script>
+  <link rel="stylesheet" href="{{ r }}assets/css/styles.css?v={{ site.time | date: '%s' }}">
+  <script src="{{ r }}assets/js/site.js?v={{ site.time | date: '%s' }}" defer></script>
 </head>
 <body>
 <a class="skip-link" href="#main">{{ s.skip_link | escape }}</a>
