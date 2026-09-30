@@ -54,9 +54,9 @@ gallery:
       src: "assets/images/mazzucco-04.jpg"
       alt: "Portrait of Raphael Mazzucco in front of a coastal lighthouse"
       shape: "landscape"
-      mobile_shape: "portrait"
+      mobile_shape: "landscape"
       position: "50% 50%"
-      mobile_position: "25% 50%"
+      mobile_position: "50% 50%"
       width: 1920
       height: 1079
   - type: note

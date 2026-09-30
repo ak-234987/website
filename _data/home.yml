@@ -60,7 +60,7 @@ disciplines:
     lines: []
     image:
       src: assets/images/homepage-film.jpg
-      alt: An artist painting at an easel in his studio
+      alt: John Myatt resting his arms on the polished roof of a boat in Venice
       shape: landscape-4-3
       mobile_shape: landscape-4-3
       position: 50% 50%

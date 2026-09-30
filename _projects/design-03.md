@@ -66,7 +66,7 @@ gallery:
       src: "assets/images/pele-05.jpg"
       alt: "Pelé leaning on a banister beneath two framed photographs"
       shape: "landscape"
-      mobile_shape: "portrait"
+      mobile_shape: "landscape"
       position: "50% 50%"
       mobile_position: "50% 50%"
       width: 1920

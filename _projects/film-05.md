@@ -1,8 +1,8 @@
 ---
 category: film
 order: 5
-title: "Project 05"
-head_description: "Film portfolio project by AK Suggi."
+title: "Billy Connolly | Sketchpad To Stainless Steel"
+head_description: "Billy Connolly | Sketchpad To Stainless Steel — a film project by AK Suggi."
 description: "Project description to follow."
 nav_style: pagination
 meta:
@@ -11,74 +11,25 @@ meta:
   - label: "Services"
     value: "To be added"
 thumbnail:
-  src: "assets/images/film-05.svg"
-  alt: "Placeholder for Film Project 05"
+  src: "assets/images/billy-connolly.jpg"
+  alt: "The word Connolly in white letters over three blurred silhouettes on a purple background"
   shape: "landscape"
-  mobile_shape: "portrait"
+  mobile_shape: "landscape"
   position: "50% 50%"
   mobile_position: "50% 50%"
-  width: 1600
-  height: 1200
+  width: 1920
+  height: 1079
 gallery:
-  - type: single
-    image:
-      src: "assets/images/film-05.svg"
-      alt: "Placeholder for Film Project 05, image 1"
-      shape: "landscape"
-      mobile_shape: "portrait"
-      position: "50% 50%"
-      mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
-  - type: pair
-    left:
-      src: "assets/images/film-06.svg"
-      alt: "Placeholder for Film Project 05, image 2"
-      shape: "square"
-      mobile_shape: "portrait"
-      position: "50% 50%"
-      mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
-    right:
-      src: "assets/images/film-01.svg"
-      alt: "Placeholder for Film Project 05, image 3"
-      shape: "square"
-      mobile_shape: "portrait"
-      position: "50% 50%"
-      mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
-  - type: single
-    image:
-      src: "assets/images/film-02.svg"
-      alt: "Placeholder for Film Project 05, image 4"
-      shape: "landscape"
-      mobile_shape: "portrait"
-      position: "50% 50%"
-      mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
-  - type: note
-    text: "Project details to follow."
-  - type: single
-    image:
-      src: "assets/images/film-03.svg"
-      alt: "Placeholder for Film Project 05, image 5"
-      shape: "landscape"
-      mobile_shape: "portrait"
-      position: "50% 50%"
-      mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
-  - type: single
-    image:
-      src: "assets/images/film-04.svg"
-      alt: "Placeholder for Film Project 05, image 6"
+  - type: video
+    video_url: "https://youtu.be/fXkGgRe7Y-Y"
+    video_title: "Billy Connolly | Sketchpad To Stainless Steel"
+    poster:
+      src: "assets/images/billy-connolly.jpg"
+      alt: "The word Connolly in white letters over three blurred silhouettes on a purple background"
       shape: "landscape"
       mobile_shape: "landscape"
       position: "50% 50%"
       mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
+      width: 1920
+      height: 1079
 ---
