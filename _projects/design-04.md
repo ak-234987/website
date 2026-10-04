@@ -12,7 +12,7 @@ meta:
     value: "Design, Large format POS, Print-ready artwork"
 thumbnail:
   src: "assets/images/design-04.jpg"
-  alt: "Two polaroid-framed shots of gallery installations lit in blue and orange"
+  alt: "Two polaroid-framed shots: a sculpture gallery lit in orange and a street hoarding reading ‘Working Man’"
   shape: "landscape"
   mobile_shape: "landscape"
   position: "50% 50%"
