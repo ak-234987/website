@@ -22,8 +22,8 @@ thumbnail:
 gallery:
   - type: single
     image:
-      src: "assets/images/design-04.jpg"
-      alt: "Two polaroid-framed shots of gallery installations lit in blue and orange"
+      src: "assets/images/events-01.jpg"
+      alt: "Bronze animal sculptures on plinths in a gallery lit in orange, beside a large print of the sculptor at work"
       shape: "landscape"
       mobile_shape: "landscape"
       position: "50% 50%"
@@ -32,53 +32,53 @@ gallery:
       height: 1079
   - type: pair
     left:
-      src: "assets/images/design-05.svg"
-      alt: "Placeholder for Design Project 04, image 2"
+      src: "assets/images/events-02.jpg"
+      alt: "Three children in silhouette watching a projected Peter Pan and Captain Hook scene"
       shape: "square"
-      mobile_shape: "portrait"
+      mobile_shape: "square"
       position: "50% 50%"
       mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
+      width: 1200
+      height: 1199
     right:
-      src: "assets/images/design-06.svg"
-      alt: "Placeholder for Design Project 04, image 3"
+      src: "assets/images/events-03.jpg"
+      alt: "Mind charity logo on a black wall surrounded by handwritten visitor cards"
       shape: "square"
-      mobile_shape: "portrait"
+      mobile_shape: "square"
       position: "50% 50%"
       mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
+      width: 1200
+      height: 1199
   - type: single
     image:
-      src: "assets/images/design-01.svg"
-      alt: "Placeholder for Design Project 04, image 4"
-      shape: "landscape"
-      mobile_shape: "portrait"
-      position: "50% 50%"
-      mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
-  - type: note
-    text: "Working on public installations has given me the opportunity to collaborate with a diverse range of organisations, creating engaging spaces and experiences designed to connect with and be enjoyed by the public."
-  - type: single
-    image:
-      src: "assets/images/design-02.svg"
-      alt: "Placeholder for Design Project 04, image 5"
-      shape: "landscape"
-      mobile_shape: "portrait"
-      position: "50% 50%"
-      mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
-  - type: single
-    image:
-      src: "assets/images/design-03.svg"
-      alt: "Placeholder for Design Project 04, image 6"
+      src: "assets/images/events-04.jpg"
+      alt: "Shop window installation with Joker and Spider-Man portraits above a bed of popcorn, under a ‘Fresh Popcorn’ sign"
       shape: "landscape"
       mobile_shape: "landscape"
       position: "50% 50%"
       mobile_position: "50% 50%"
-      width: 1600
-      height: 1200
+      width: 1920
+      height: 1079
+  - type: note
+    text: "Working on public installations has given me the opportunity to collaborate with a diverse range of organisations, creating engaging spaces and experiences designed to connect with and be enjoyed by the public."
+  - type: single
+    image:
+      src: "assets/images/events-05.jpg"
+      alt: "Street hoarding lined with black and white Peaky Blinders-style artwork prints beneath a mirrored building"
+      shape: "landscape"
+      mobile_shape: "landscape"
+      position: "50% 50%"
+      mobile_position: "50% 50%"
+      width: 1920
+      height: 1079
+  - type: single
+    image:
+      src: "assets/images/events-06.jpg"
+      alt: "Outdoor art exhibition boards in a city square, with passers-by blurred in motion in front of a Venice painting"
+      shape: "landscape"
+      mobile_shape: "landscape"
+      position: "50% 50%"
+      mobile_position: "50% 50%"
+      width: 1920
+      height: 1079
 ---
