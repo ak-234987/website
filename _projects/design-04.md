@@ -1,15 +1,15 @@
 ---
 category: design
 order: 3
-title: "Events & Exhibitions"
-head_description: "Events & Exhibitions — design project by AK Suggi."
-description: "Project description to follow."
+title: "Events & Installations"
+head_description: "Events & Installations — design project by AK Suggi."
+description: "I create exhibitions and public installations from concept through to completion, covering spatial design, lighting, graphics, promotional vinyls and signage. I bring together the creative and practical details to turn ideas into engaging physical spaces."
 nav_style: pagination
 meta:
   - label: "Client"
-    value: "To be added"
+    value: "Central BID Birmingham, Netflix, Castle Fine Art"
   - label: "Services"
-    value: "To be added"
+    value: "Design, Large format POS, Print-ready artwork"
 thumbnail:
   src: "assets/images/design-04.jpg"
   alt: "Two polaroid-framed shots of gallery installations lit in blue and orange"
@@ -60,7 +60,7 @@ gallery:
       width: 1600
       height: 1200
   - type: note
-    text: "Project details to follow."
+    text: "Working on public installations has given me the opportunity to collaborate with a diverse range of organisations, creating engaging spaces and experiences designed to connect with and be enjoyed by the public."
   - type: single
     image:
       src: "assets/images/design-02.svg"

@@ -1,8 +1,8 @@
 ---
 category: film
 order: 6
-title: "Stuart McAlpine Millar | Savoy (Shot on iPhone 6)"
-head_description: "Stuart McAlpine Millar | Savoy (Shot on iPhone 6) — a film project by AK Suggi."
+title: "Stuart McAlpine Miller | Savoy (Shot on iPhone 6)"
+head_description: "Stuart McAlpine Miller | Savoy (Shot on iPhone 6) — a film project by AK Suggi."
 description: "Project description to follow."
 nav_style: pagination
 meta:
@@ -22,7 +22,7 @@ thumbnail:
 gallery:
   - type: video
     video_url: "https://youtu.be/8dTTASit4uQ"
-    video_title: "Stuart McAlpine Millar | Savoy (Shot on iPhone 6)"
+    video_title: "Stuart McAlpine Miller | Savoy (Shot on iPhone 6)"
     poster:
       src: "assets/images/stuart-mcalpine-millar.jpg"
       alt: "The Savoy hotel sign beneath a golden statue and flags"
